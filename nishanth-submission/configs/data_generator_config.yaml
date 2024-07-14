@@ -1,0 +1,3 @@
+spec_path: 'configs'
+output_dir: 'data/raw'
+num_records: 10000

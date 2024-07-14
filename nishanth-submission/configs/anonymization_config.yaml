@@ -1,0 +1,6 @@
+input_csv_path: "data/processed"
+anonymization_spec:
+  - column: "first_name"
+  - column: "last_name"
+  - column: "address"
+output_csv_dir: "data/anonymized"

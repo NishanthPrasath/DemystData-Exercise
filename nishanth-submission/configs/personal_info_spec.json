@@ -1,0 +1,17 @@
+{
+    "ColumnNames": [
+        "first_name",
+        "last_name",
+        "address",
+        "date_of_birth"
+    ],
+    "Offsets": [
+        "20",
+        "20",
+        "70",
+        "10"
+    ],
+    "FixedWidthEncoding": "windows-1252",
+    "IncludeHeader": "True",
+    "DelimitedEncoding": "utf-8"
+}
