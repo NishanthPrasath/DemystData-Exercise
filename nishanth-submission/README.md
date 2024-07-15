@@ -34,7 +34,7 @@
 
 4. Generate sample data:
    ```
-   python data_generator.py <filename without extension>
+   python data_generator.py personal_info
    ```
    This will generate a txt file in the `data/raw` folder.
   > [!NOTE]  
